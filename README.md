@@ -7,7 +7,7 @@ Projeto Avaliativo Módulo 2 - SENAI - LAB365
 
 O LabReceitas é um  projeto com o objetivo de avaliar os alunos do Módulo 2 do LAB 365 de Florianópolis no desenvolvimento de uma aplicação em react. A aplicação consiste em cadastrar, editar ou excluir suas receitas, de uma forma simples e prática. A aplicação apresenta uma interface clean e intuitiva.
 
-#Utilizando a aplicação:
+# Utilizando a aplicação:
 
 Para utilizar é bem simples, acesse a demonstração em: spiffy-muffin-a31e45.netlify.app
 
