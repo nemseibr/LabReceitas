@@ -25,7 +25,8 @@ Para excluir a receita desejada, basta clicar no botão "X Excluir" que a mesma 
 
 ![Lab Receitas](https://user-images.githubusercontent.com/116135293/235348076-162d5b6a-ae08-4956-a4e5-1491570cf5f0.png)
 
-#Autor
+# Autor
+
 Otávio Augusto Reis Nascimento
 
 Linkedin: https://www.linkedin.com/in/ot%C3%A1vio-augusto-reis-nascimento-8a77b542/
